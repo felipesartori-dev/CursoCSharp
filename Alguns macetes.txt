@@ -1,0 +1,3 @@
+Ctrl + K + D -> identa automaticamente;
+Ctrl + Scroll do Mouse = Modifica tamanho da fonte
+Ctrl + f5 = Compila e roda o programa
